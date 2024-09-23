@@ -1,0 +1,26 @@
+{
+    "short_name": "World map App",
+    "name": "Create React App Sample",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "https://dlvkyia8i4zmz.cloudfront.net/BDmYSHaQniEnmjDJ5hmQ_world_map.webp",
+        "type": "image/png/webp",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://dlvkyia8i4zmz.cloudfront.net/BDmYSHaQniEnmjDJ5hmQ_world_map.webp",
+        "type": "image/png/webp",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
